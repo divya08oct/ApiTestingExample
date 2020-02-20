@@ -52,7 +52,7 @@ var customerData = {
         },
         {
             "sno": 6,
-            "customerName": "Rakesh Pandey",
+            "customerName": "Rakesh Pandey2",
             "mobile": "9088898989",
             "address": {
                 "permanentAddress": "Allhabad",
